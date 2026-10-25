@@ -1,0 +1,20 @@
+# secrets
+.env
+*.env
+secrets.json
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+# model weights / large files
+*.safetensors
+*.bin
+*.gguf
+
+.DS_Store

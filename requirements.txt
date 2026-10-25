@@ -1,0 +1,11 @@
+# Runtime (local Mistral version - needs a CUDA GPU, e.g. a Kaggle T4)
+httpx
+trafilatura
+sentence-transformers
+psycopg[binary]
+pgvector
+torch
+transformers
+accelerate
+bitsandbytes
+gradio

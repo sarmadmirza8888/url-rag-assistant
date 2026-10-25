@@ -1,0 +1,4 @@
+# Enough to run the test-suite (no GPU, database or model needed)
+httpx
+trafilatura
+pytest
